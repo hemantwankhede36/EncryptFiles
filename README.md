@@ -7,5 +7,5 @@ chmod +x enc.sh
 Then run the script with
 ./enc.sh
 
-Now drag and drop the file you want to encrypt in terminal 
-boom! The file is now encrypted!
+Now drag and drop the file you want to encrypt in terminal. 
+Boom! The file is now encrypted!
